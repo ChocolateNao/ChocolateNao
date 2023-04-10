@@ -5,7 +5,7 @@
 - 🖥️ Focusing on creating web applications, but trying to explore various technologies
 - 📚 Patient learner, interested in IT and foreign languages
 - 🎓 Postgraduate student at ITMO University
-- 🏡 Currently locared at St. Petersburg, Russian Federation
+- 🏡 Currently located at St. Petersburg, Russian Federation
 - 🎁 All my open-source work is available here
 
 ---
@@ -45,5 +45,5 @@
 
 <br />
 
-<span style="display:block;text-align:center">[![ChocoNao's GitHub stats](https://github-readme-stats.vercel.app/api?username=chocolatenao&count_private=true&theme=tokyonight)](https://github.com/miraisubject/)
+<span style="display:block;text-align:center">[![ChocoNao's GitHub stats](https://github-readme-stats.vercel.app/api?username=chocolatenao&count_private=true&theme=tokyonight)](https://github.com/ChocolateNao)
 </span>
