@@ -1,6 +1,6 @@
 # Hi there, I'm Andrey 👋
 
-<p align="center" style="font-size: 32px; font-weight: 400">💡 About</p>
+## 💡 About
 
 - 🖥️ Focusing on creating web applications, but trying to explore various technologies
 - 📚 Patient learner, interested in IT and foreign languages
@@ -10,7 +10,9 @@
 
 ---
 
-<p align="center" style="font-size: 32px; font-weight: 400">🧠 Skills</p>
+## 🧠 Skills
+
+<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,python,cpp,wordpress" />
     <img src="https://skillicons.dev/icons?i=react,svelte,git,tailwind,mysql,mongo,figma,bash,next,docker" />
@@ -21,7 +23,9 @@
 
 ---
 
-<p align="center" style="font-size: 32px; font-weight: 400">☎️ Contact me</p>
+## ☎️ Contact me
+
+<br/>
 <div align="center">
     <a href="https://www.linkedin.com/in/andrey-loginov/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
     <a href="https://t.me/choconao"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
