@@ -19,55 +19,55 @@
   <a href="https://sass-lang.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
   </a>
-  <a href="https://en.wikipedia.org/wiki/JavaScript">
+  <a href="https://tailwindcss.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss logo"  />
+  </a>
+  <a href="https://www.javascript.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   </a>
-  <a href="https://www.typescriptlang.org/">
+  <a href="https://www.typescriptlang.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   </a>
   <a href="https://nodejs.org/en">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   </a>
-  <a href="https://jestjs.io/">
+  <a href="https://jestjs.io">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
   </a>
-  <a href="https://www.python.org/">
+  <a href="https://www.python.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   </a>
-  <a href="https://en.cppreference.com/w/">
+  <a href="https://en.cppreference.com/w">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://react.dev/">
+  <a href="https://react.dev">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   </a>
-  <a href="https://nextjs.org/">
+  <a href="https://nextjs.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
   </a>
-  <a href="https://svelte.dev/">
+  <a href="https://svelte.dev">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" width="52" alt="svelte logo"  />
   </a>
-  <a href="https://git-scm.com/">
+  <a href="https://git-scm.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss logo"  />
-  </a>
-  <a href="https://www.figma.com/">
+  <a href="https://www.figma.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
   </a>
-  <a href="https://www.gnu.org/software/bash/">
+  <a href="https://www.gnu.org/software/bash">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
   </a>
-  <a href="https://www.mysql.com/">
+  <a href="https://www.mysql.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   </a>
-  <a href="https://www.mongodb.com/">
+  <a href="https://www.mongodb.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   </a>
-  <a href="https://www.docker.com/">
+  <a href="https://www.docker.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
   </a>
 </div>
