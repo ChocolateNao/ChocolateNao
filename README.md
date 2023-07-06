@@ -2,6 +2,7 @@
 
 <h2 align="center">💡 About me</h2>
 
+I'm a passionate self-taught programmer on a journey to fulfill my ambition of working as a professional developer. Through building tools and libraries and continuously honing my skills, I'm gradually paving my way towards a career in programming.
 - 🖥️ Focusing on creating web applications, but trying to explore various technologies
 - 📚 Patient learner, interested in IT and foreign languages
 - 🎓 Postgraduate student at ITMO University
@@ -77,7 +78,7 @@
   <a href="https://t.me/choconao" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <a href="https://discord.com/users/739134456790777907" target="_blank">
+  <a href="https://discord.com/users/217891669079490560" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/andrey-loginov" target="_blank">
