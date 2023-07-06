@@ -6,7 +6,6 @@
 - 📚 Patient learner, interested in IT and foreign languages
 - 🎓 Postgraduate student at ITMO University
 - 🏡 Currently located at St. Petersburg, Russian Federation
-- 🎁 All my open-source work is available here
 
 <h2 align="center">🧠 I create using</h2>
 
@@ -97,8 +96,7 @@
 
 - Russian - Native
 - English - B2
-- Slovak - A1
-- German - A1
+- Slovak - A2
 </details>
 <div align="center">
   <a href="https://github.com/ChocolateNao"><img src="https://github-readme-stats.vercel.app/api?username=ChocolateNao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /></a>
